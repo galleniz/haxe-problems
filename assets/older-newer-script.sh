@@ -1,5 +1,4 @@
 echo script básico hecho por: MrNiz.
-title Script - older-newer-script
 echo removiendo lo innecesario
 haxelib remove newgrounds
 haxelib remove haxeflixel 
